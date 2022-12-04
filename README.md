@@ -46,10 +46,8 @@
   
 </div>
 
-<div align="center">
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/iuryrosal">Iury Rosal</a></p>
-</div>
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasps&repo=Knowledge-Base-Project)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasps&repo=Pharmacy-Management)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasps&repo=Document-Management)](https://github.com/anuraghazra/github-readme-stats)
