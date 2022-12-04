@@ -6,7 +6,7 @@
   </h1>
   
 <p align="center">
-    Estou estudando Desenvolvimento Full-stack atualmente. Já passei por Javascript, HTML, CSS e REACT, e pude desenvolver vários projetos com estas tecnologias que podem ser encontrados aqui no meu Github.</p>
+    Estou estudando Desenvolvimento Full-stack atualmente. Já passei por Javascript, HTML, CSS e REACT, e pude desenvolver vários projetos com estas tecnologias que podem ser encontrados aqui no meu Github. Alguns deles estão destacados abaixo.</p>
 <p align="center">
     Atualmente estou aprendendo Back-end. Já passei por Java, banco de dados PostgreSQL e agora estou estudando Spring Boot. Ainda falta um módulo onde serei desafiado a, de fato, desenvolver como um Full-stack, atuando na interface com o usuário e com o servidor.</p>
     <p align="center">
