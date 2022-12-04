@@ -50,4 +50,3 @@
   <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasps&repo=Pharmacy-Management)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasps&repo=Document-Management)](https://github.com/anuraghazra/github-readme-stats)
