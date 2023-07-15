@@ -8,9 +8,9 @@
 <p align="center">
     Estou estudando Desenvolvimento Full-stack atualmente. Já passei por Javascript, HTML, CSS e REACT, e pude desenvolver vários projetos com estas tecnologias que podem ser encontrados aqui no meu Github. Alguns deles estão destacados abaixo.</p>
 <p align="center">
-    Atualmente estou aprendendo Back-end. Já passei por Java, banco de dados PostgreSQL e agora estou estudando Spring Boot. Ainda falta um módulo onde serei desafiado a, de fato, desenvolver como um Full-stack, atuando na interface com o usuário e com o servidor.</p>
+    Atualmente estou aprendendo Back-end. Já passei por Java, banco de dados PostgreSQL e agora estou estudando Spring Boot. Acabei de desenvolver um módulo onde fui desafiado, juntamente com minha equipe de 4 colegas, a, de fato, desenvolver como um Full-stack, atuando no front e no back-end.</p>
     <p align="center">
-    Já estou pronto para entrar no mercado como um Desenvolvedor Júnior e, com a paixão que tenho por código, com certeza alcançarei grandes patamares em minha carreira.
+    Sigo me desenvolvendo nos códigos, desta vez estou me aprofundando em React Native para mergulhar no mundo dos apps e criar soluções para as dores que aparecem diariamente.
   </p>
   
 </div>
